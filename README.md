@@ -2,7 +2,7 @@
 ApnaGahr: Buy, sell, or rent properties. Secure OTP signup, chatbot support. HTML/CSS/JS/PHP.
 🏠 ApnaGhar 🏠
 
-Welcome to RealEstateHub, your one-stop solution for buying, selling, or renting properties online. Whether you're searching for an apartment, flat, building, villa, or office space, we've got you covered!
+Welcome to ApnaGhar, your one-stop solution for buying, selling, or renting properties online. Whether you're searching for an apartment, flat, building, villa, or office space, we've got you covered!
 
 Features:
 ✨ Property Listings: Browse through a wide range of properties available for sale, purchase, or rent.
